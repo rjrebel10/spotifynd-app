@@ -10,3 +10,7 @@ In this project, we present Spotifynd. The goal of the Spotifynd web application
 2. Install Node Version 6.10
 3. Navigate to Spotifynd Application home directory.
 4. npm install to install dependencies
+
+## Team Poster
+
+![alt text](https://raw.githubusercontent.com/rjrebel10/spotifynd-app/master/team19poster.jpg)
